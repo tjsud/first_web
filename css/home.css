@@ -1,0 +1,15 @@
+main {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  font-family: pretendard;
+}
+.home {
+  width: 100vw;
+  height: 700px;
+  background-image: url("../images/고양이.jpg");
+  background-size: cover;
+  background-position: center;
+  /* filter: brightness(120%); */
+}

@@ -1,0 +1,25 @@
+:root {
+  --main-color: #ffb7c5; /* 체리 블러썸 메인 색상 */
+  --complementary-color: #d8f0e3; /* 보색(Complementary) - 연한 민트색 */
+  --analogous-color-1: #ffc4b7; /* 유사색(Analogous) 1 - 연한 살구색 */
+  --analogous-color-2: #ffb7f3; /* 유사색(Analogous) 2 - 연한 자홍색 */
+  --neutral-light: #ffffff; /* 중성적인 밝은 색 - 순백색 */
+  --neutral-dark: #333333; /* 중성적인 어두운 색 - 짙은 회색 */
+
+  /* 폰트 사이즈 */
+  --base-font-size: 16px; /* 기본 텍스트 크기 */
+  --small-font-size: 14px; /* 작은 텍스트 크기 */
+  --medium-font-size: 18px; /* 중간 텍스트 크기 */
+  --large-font-size: 24px; /* 큰 텍스트 크기 */
+  --xlarge-font-size: 30px; /* 매우 큰 텍스트 크기 */
+  --section-guide-font-size: 42px; /* 섹션별 안내 문구 폰트 사이즈 */
+
+  /* 폰트 두께 */
+  --thin-font-weight: 300;
+  --bold-font-weight: bold;
+
+  /* 다른 스타일링 변수들 */
+  --heading-font-size: 36px; /* 제목 폰트 크기 */
+  --subheading-font-size: 28px; /* 부제목 폰트 크기 */
+  --button-font-size: 20px; /* 버튼 내 텍스트 폰트 크기 */
+}
